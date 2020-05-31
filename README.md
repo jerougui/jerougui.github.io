@@ -15,7 +15,7 @@ Ceci est une version en français d'un modèle que j'utilise pour mon CV. Fortem
 
 2. Installez un éditeur pour éditer et compiler des documents LaTeX. Je recommande [TeXstudio](http://www.texstudio.org/) ou [Texmaker](http://www.xm1math.net/texmaker/).
 
-3. Ajoutez le package fontawesome disponible ici [FontAnsowme](http://mirrors.ctan.org/fonts/fontawesome.zip) et placé le dans le répertoire fontawesome/ dans [MikTex-InstallDir]/tex/latex/.
+3. Ajoutez le package fontawesome disponible ici [FontAnsowme](http://mirrors.ctan.org/fonts/fontawesome.zip) et placez le dans le répertoire fontawesome/ dans [MikTex-InstallDir]/tex/latex/.
 
 Une fois la distribution et l'éditeur installés, clonez ce référentiel en utilisant `git clone` et ouvrez le fichier template.tex dans votre éditeur. **Important**: assurez-vous de compiler avec XeLaTeX, pas PDFLaTeX. Vous êtes prêt à partir!
 
