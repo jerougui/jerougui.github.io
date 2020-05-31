@@ -6,7 +6,7 @@ Ceci est le modèle que j'utilise pour mon propre CV. Je l'ai compilé avec des 
 3. [CV Smart Fancy LaTeX de Carmine Benedetto] (https://github.com/neoben/smart-fancy-latex-cv)
 4. [CV de fantaisie d'Adrien Friggeri] (https://www.sharelatex.com/templates/52fb8c1f33621a613683ecad)
 
-! [Capture d'écran du CV] (screen.png)
+![Capture d'écran du CV] (screen.png)
 
 ## Installation des prérequis (Windows)
 
@@ -18,7 +18,7 @@ Une fois la distribution et l'éditeur installés, clonez ce référentiel en ut
 
 ## Licence
 
-`` ''
+```
 Copyright 2020 J.E ROUGUI
 
 Sous licence Apache License, Version 2.0 (la "Licence");
@@ -32,4 +32,4 @@ distribué sous licence est distribué sur une base "en l'état",
 SANS GARANTIE OU CONDITION DE QUELQUE NATURE QUE CE SOIT, expresse ou implicite.
 Voir la licence pour la langue spécifique régissant les autorisations et
 limitations de la licence.
-`` ''
+```
