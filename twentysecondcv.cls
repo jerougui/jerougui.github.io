@@ -240,25 +240,23 @@
     \end{tabular}
 
     %------------------------------------------------
-    \vspace{3mm}
+	\vspace{2mm}
+	\profilesection{Profile}{3.5cm}
+	\aboutme
+
+    %------------------------------------------------
+    \vspace{2mm}
     \profilesection{Compétences}{1.2cm}
-    
-    {\large \textbf{Aperçu}}
-
-	\skills
-        
-        %------------------------------------------------
-        
-        \vspace{3mm}
-       
-	 {\large \textbf{Programmation}} 
-
-		 \programming
-         
-        \vspace{3mm}
-        \profilesection{Formation}{3cm} 
-        
-        \education
+    %{\large \textbf{Aperçu}}
+	\skills 
+    %------------------------------------------------
+    \vspace{2mm}
+	{\large \textbf{Programmation}} 
+	\programming
+    %------------------------------------------------
+    \vspace{2mm}
+    \profilesection{Formation}{3cm} 
+    \education
       
   \end{textblock}
 }
