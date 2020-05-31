@@ -1,6 +1,6 @@
 # Modèle de CV LaTeX
 
-Ceci est le modèle que j'utilise pour mon propre CV. Je l'ai compilé avec des éléments de plusieurs modèles, notamment:
+Ceci est une version en français d'un modèle que j'utilise pour mon CV. Fortement inspiré des éléments de plusieurs modèles, notamment:
 
 1. [Harsh GADGIL Curriculum Vitae](https://github.com/opensorceror/Data-Engineer-Resume-LaTeX)
 2. [Curriculum Vitae Vingt Secondes de Carmine Spagnuolo](https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex)
@@ -15,7 +15,10 @@ Ceci est le modèle que j'utilise pour mon propre CV. Je l'ai compilé avec des 
 
 2. Installez un éditeur pour éditer et compiler des documents LaTeX. Je recommande [TeXstudio](http://www.texstudio.org/) ou [Texmaker](http://www.xm1math.net/texmaker/).
 
+3. Ajouter la dépendance manquante en ééléchargeant [FontAnsowme](http://mirrors.ctan.org/fonts/fontawesome.zip) et placé le dans le répertoire fontawesome/ dans [MikTex-InstallDir]/tex/latex/.
+
 Une fois la distribution et l'éditeur installés, clonez ce référentiel en utilisant `git clone` et ouvrez le fichier template.tex dans votre éditeur. **Important**: assurez-vous de compiler avec XeLaTeX, pas PDFLaTeX. Vous êtes prêt à partir!
+
 
 ## Licence
 
