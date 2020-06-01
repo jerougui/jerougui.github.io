@@ -133,7 +133,7 @@
 \pgfmathsetlength{\imagewidth}{5cm}
 \pgfmathsetlength{\imagescale}{\imagewidth/600}
 
-\newcommand{\profilesection}[2]{\vspace{8pt}{\color{black!80} \huge #1 \rule[0.15\baselineskip]{#2}{1pt}}}
+\newcommand{\profilesection}[2]{\vspace{4pt}{\color{black!80} \huge #1 \rule[0.15\baselineskip]{#2}{1pt}}}
 
 % Define custom commands for CV info
 \newcommand{\cvdate}[1]{\renewcommand{\cvdate}{#1}}
@@ -248,15 +248,20 @@
     \vspace{2mm}
     \profilesection{Compétences}{1.2cm}
     %{\large \textbf{Aperçu}}
-	\skills 
+    
+	\skills
     %------------------------------------------------
     \vspace{2mm}
-	{\large \textbf{Programmation}} 
-	\programming
-    %------------------------------------------------
-    \vspace{2mm}
-    \profilesection{Formation}{3cm} 
-    \education
+    
+	 {\large \textbf{Programmation}} 
+		 
+		 \programming
+	%------------------------------------------------		 
+     \vspace{2mm}
+     
+        \profilesection{Formation}{3cm}         
+       
+        \education
       
   \end{textblock}
 }
