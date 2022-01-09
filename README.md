@@ -7,7 +7,8 @@ Ceci est une version en français d'un modèle que j'utilise pour mon CV. Fortem
 3. [CV Smart Fancy LaTeX de Carmine Benedetto](https://github.com/neoben/smart-fancy-latex-cv)
 4. [CV de fantaisie d'Adrien Friggeri](https://www.sharelatex.com/templates/52fb8c1f33621a613683ecad)
 
-![Capture d'écran du CV](screen.png)
+![Capture d'écran du CV](screen_EN.png)
+![Capture d'écran du CV](screen_FR.png)
 
 ## Installation des prérequis (Windows)
 
@@ -17,7 +18,9 @@ Ceci est une version en français d'un modèle que j'utilise pour mon CV. Fortem
 
 3. Ajoutez le package fontawesome disponible ici [FontAnsowme](http://mirrors.ctan.org/fonts/fontawesome.zip) et placez le dans le répertoire fontawesome/ dans  le dossier `[MikTex-InstallDir]/tex/latex/`.
 
-Une fois la distribution et l'éditeur installés, clonez ce référentiel en utilisant `git clone` et ouvrez le fichier template.tex dans votre éditeur. **Important**: assurez-vous de compiler avec XeLaTeX, pas PDFLaTeX. Vous êtes prêt à partir!
+Une fois la distribution et l'éditeur installés, cloner ce référentiel en utilisant `git clone` puis editer le fichier template.tex dans votre éditeur. **Important**: assurez-vous de compiler avec XeLaTeX et non avec PDFLaTeX.
+
+Requirement : le package font awesome est nécessaire, il est facile de l'installer en utilisant la console MiKTeX. 
 
 
 ## Licence
