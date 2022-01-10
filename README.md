@@ -10,10 +10,10 @@ Voici un template de mon Curriculum-vitae fortement inspiré des éléments de p
 ## [code source](https://github.com/jerougui/jerougui.github.io)
 
 
-v.[EN]
+CV.[EN]
 ![Capture d'écran du CV](screen_EN.png)
 
-v.[FR]
+CV.[FR]
 ![Capture d'écran du CV](screen_FR.png)
 
 ## Installation des prérequis (Windows)
