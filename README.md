@@ -1,6 +1,6 @@
 # Modèle de CV LaTeX
 
-Voici un template de mon Curriculum-vitae fortement inspiré des éléments de plusieurs modèles, notamment:
+Voici un template de mon [Curriculum Vitae](https://jerougui.github.io/) fortement inspiré des éléments de plusieurs modèles, notamment:
 
 1. [Harsh GADGIL Curriculum Vitae](https://github.com/opensorceror/Data-Engineer-Resume-LaTeX)
 2. [Curriculum Vitae Vingt Secondes de Carmine Spagnuolo](https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex)
