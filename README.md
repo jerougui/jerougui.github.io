@@ -1,13 +1,16 @@
 # Modèle de CV LaTeX
 
-Ceci est une version en français d'un modèle que j'utilise pour mon CV. Fortement inspiré des éléments de plusieurs modèles, notamment:
+Voici un template de mon Curriculum-vitae fortement inspiré des éléments de plusieurs modèles, notamment:
 
 1. [Harsh GADGIL Curriculum Vitae](https://github.com/opensorceror/Data-Engineer-Resume-LaTeX)
 2. [Curriculum Vitae Vingt Secondes de Carmine Spagnuolo](https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex)
 3. [CV Smart Fancy LaTeX de Carmine Benedetto](https://github.com/neoben/smart-fancy-latex-cv)
 4. [CV de fantaisie d'Adrien Friggeri](https://www.sharelatex.com/templates/52fb8c1f33621a613683ecad)
 
+.[EN]
 ![Capture d'écran du CV](screen_EN.png)
+
+.[FR]
 ![Capture d'écran du CV](screen_FR.png)
 
 ## Installation des prérequis (Windows)
