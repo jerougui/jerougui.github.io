@@ -7,8 +7,8 @@ Voici un template de mon Curriculum-vitae fortement inspiré des éléments de p
 3. [CV Smart Fancy LaTeX de Carmine Benedetto](https://github.com/neoben/smart-fancy-latex-cv)
 4. [CV de fantaisie d'Adrien Friggeri](https://www.sharelatex.com/templates/52fb8c1f33621a613683ecad)
 
-##Code source
-[code source](https://github.com/jerougui/jerougui.github.io)
+## [code source](https://github.com/jerougui/jerougui.github.io)
+
 
 v.[EN]
 ![Capture d'écran du CV](screen_EN.png)
