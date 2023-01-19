@@ -14,7 +14,7 @@ CV.[EN]
 ![Capture d'écran du CV](screen_EN.png)
 
 CV.[FR]
-![Capture d'écran du CV](screen_FR.png)
+![Capture d'écran du CV](screen_FR_2023.png)
 
 ## Installation des prérequis (Windows)
 
