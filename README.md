@@ -24,10 +24,19 @@ CV.[FR]
 
 3. Ajoutez le package fontawesome disponible ici [FontAnsowme](http://mirrors.ctan.org/fonts/fontawesome.zip) et placez le dans le répertoire fontawesome/ dans  le dossier `[MikTex-InstallDir]/tex/latex/`.
 
-Une fois la distribution et l'éditeur installés, cloner ce référentiel en utilisant `git clone` puis editer le fichier template.tex dans votre éditeur. **Important**: assurez-vous de compiler avec XeLaTeX et non avec PDFLaTeX.
+Une fois la distribution et l'éditeur installés, cloner ce référentiel en utilisant `git clone` puis editer le fichier template.tex dans votre éditeur. 
+
+## Compilation
+Ouvre le cv.tex with TexMaker ou TexStudio et lance la compilation avec XeLaTeX
+
+## Fontawesom support
+Pour activer la prise en charge de FontAwesome, ajoute le package FontAwesome dans ton fichier cv.tex :
+```
+\usepackage{fontawesome}
+```
+Ensuite, compile le document en utilisant LuaLaTeX.
 
 Requirement : le package font awesome est nécessaire, il est facile de l'installer en utilisant la console MiKTeX. 
-
 
 ## Licence
 
