@@ -9,12 +9,11 @@ Voici un template de mon [Curriculum Vitae](https://jerougui.github.io/) forteme
 
 ## [Code source](https://github.com/jerougui/jerougui.github.io)
 
+CV.[FR]
+![Capture d'écran du CV](screen_FR.png)
 
 CV.[EN]
 ![Capture d'écran du CV](screen_EN.png)
-
-CV.[FR]
-![Capture d'écran du CV](screen_FR_2023.png)
 
 ## Installation des prérequis (Windows)
 
